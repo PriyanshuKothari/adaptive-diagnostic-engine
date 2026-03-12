@@ -218,7 +218,7 @@ adaptive-diagnostic-engine/
 │   │   └── llm.py           # Groq study plan generation
 │   └── seed/
 │       └── seed_questions.py # 20 GRE questions seeder
-├── .env.example
+├── .env
 ├── requirements.txt
 └── README.md
 ```
